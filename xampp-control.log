@@ -1,0 +1,103 @@
+22:12:09  [main] 	Initializing Control Panel
+22:12:09  [main] 	Windows Version:  Home  64-bit
+22:12:09  [main] 	XAMPP Version: 8.2.12
+22:12:09  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+22:12:09  [main] 	Running with Administrator rights - good!
+22:12:09  [main] 	XAMPP Installation Directory: "c:\xampp1\"
+22:12:09  [main] 	Checking for prerequisites
+22:12:09  [main] 	All prerequisites found
+22:12:09  [main] 	Initializing Modules
+22:12:09  [Apache] 	Problem detected!
+22:12:09  [Apache] 	Port 80 in use by "C:\xampp\apache\bin\httpd.exe" with PID 27632!
+22:12:09  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:12:09  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:12:09  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:12:09  [Apache] 	Problem detected!
+22:12:09  [Apache] 	Port 443 in use by "C:\xampp\apache\bin\httpd.exe" with PID 27632!
+22:12:09  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:12:09  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:12:09  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:12:09  [main] 	Starting Check-Timer
+22:12:09  [main] 	Control Panel Ready
+22:12:11  [Apache] 	Problem detected!
+22:12:11  [Apache] 	Port 80 in use by "C:\xampp\apache\bin\httpd.exe" with PID 27632!
+22:12:11  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:12:11  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:12:11  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:12:11  [Apache] 	Problem detected!
+22:12:11  [Apache] 	Port 443 in use by "C:\xampp\apache\bin\httpd.exe" with PID 27632!
+22:12:11  [Apache] 	Apache WILL NOT start without the configured ports free!
+22:12:11  [Apache] 	You need to uninstall/disable/reconfigure the blocking application
+22:12:11  [Apache] 	or reconfigure Apache and the Control Panel to listen on a different port
+22:12:11  [Apache] 	Attempting to start Apache app...
+22:12:11  [Apache] 	Status change detected: running
+22:12:12  [Apache] 	Status change detected: stopped
+22:12:12  [Apache] 	Error: Apache shutdown unexpectedly.
+22:12:12  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:12:12  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:12:12  [Apache] 	Press the Logs button to view error logs and check
+22:12:12  [Apache] 	the Windows Event Viewer for more clues
+22:12:12  [Apache] 	If you need more help, copy and post this
+22:12:12  [Apache] 	entire log window on the forums
+22:12:33  [Apache] 	Status change detected: running
+22:12:35  [mysql] 	Status change detected: running
+22:12:37  [mysql] 	Status change detected: stopped
+22:12:37  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:12:37  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:12:37  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:12:37  [mysql] 	Press the Logs button to view error logs and check
+22:12:37  [mysql] 	the Windows Event Viewer for more clues
+22:12:37  [mysql] 	If you need more help, copy and post this
+22:12:37  [mysql] 	entire log window on the forums
+22:12:50  [mysql] 	Status change detected: running
+22:12:51  [mysql] 	Status change detected: stopped
+22:12:51  [mysql] 	Error: MySQL shutdown unexpectedly.
+22:12:51  [mysql] 	This may be due to a blocked port, missing dependencies, 
+22:12:51  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+22:12:51  [mysql] 	Press the Logs button to view error logs and check
+22:12:51  [mysql] 	the Windows Event Viewer for more clues
+22:12:51  [mysql] 	If you need more help, copy and post this
+22:12:51  [mysql] 	entire log window on the forums
+22:16:47  [Apache] 	Status change detected: stopped
+22:16:47  [Apache] 	Error: Apache shutdown unexpectedly.
+22:16:47  [Apache] 	This may be due to a blocked port, missing dependencies, 
+22:16:47  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+22:16:47  [Apache] 	Press the Logs button to view error logs and check
+22:16:47  [Apache] 	the Windows Event Viewer for more clues
+22:16:47  [Apache] 	If you need more help, copy and post this
+22:16:47  [Apache] 	entire log window on the forums
+22:16:49  [Apache] 	Status change detected: running
+00:32:39  [Apache] 	Status change detected: stopped
+00:32:39  [Apache] 	Error: Apache shutdown unexpectedly.
+00:32:39  [Apache] 	This may be due to a blocked port, missing dependencies, 
+00:32:39  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+00:32:39  [Apache] 	Press the Logs button to view error logs and check
+00:32:39  [Apache] 	the Windows Event Viewer for more clues
+00:32:39  [Apache] 	If you need more help, copy and post this
+00:32:39  [Apache] 	entire log window on the forums
+14:35:27  [main] 	Deinitializing Modules
+14:35:27  [main] 	Deinitializing Control Panel
+
+14:23:41  [main] 	Initializing Control Panel
+14:23:41  [main] 	Windows Version:  Home  64-bit
+14:23:41  [main] 	XAMPP Version: 8.2.12
+14:23:41  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+14:23:41  [main] 	Running with Administrator rights - good!
+14:23:41  [main] 	XAMPP Installation Directory: "c:\xampp1\"
+14:23:41  [main] 	Checking for prerequisites
+14:23:41  [main] 	All prerequisites found
+14:23:41  [main] 	Initializing Modules
+14:23:41  [Apache] 	XAMPP Apache is already running on port 80
+14:23:41  [Apache] 	XAMPP Apache is already running on port 443
+14:23:41  [main] 	Starting Check-Timer
+14:23:41  [main] 	Control Panel Ready
+14:23:44  [mysql] 	Attempting to start MySQL service...
+14:23:45  [mysql] 	Status change detected: running
+14:50:47  [Apache] 	Attempting to stop Apache (PID: 16596)
+14:50:47  [Apache] 	Attempting to stop Apache (PID: 20320)
+14:50:47  [Apache] 	Status change detected: stopped
+14:50:49  [mysql] 	Attempting to stop MySQL service...
+14:50:50  [mysql] 	Status change detected: stopped
+05:31:28  [main] 	Deinitializing Modules
+05:31:28  [main] 	Deinitializing Control Panel
+
